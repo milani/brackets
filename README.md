@@ -18,5 +18,5 @@ __ATTENTION__ If you use Mac OSX:
 
 * Create a link to node 32bit in Brackets root directory
 `ln -s $(which node) node`
-* Download [Contents.zip](https://github.com/milani/brackets/downloads/Contents.zip) and extract it to Brackets root directory
+* Download [Contents.zip](https://github.com/milani/brackets/downloads/) and extract it to Brackets root directory
 * Run Brackets using `./node --harmony app.js`
