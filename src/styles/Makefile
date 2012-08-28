@@ -23,11 +23,11 @@
 
 
 # input filenames 
-BRACKETS_LESS = ../brackets.less
+BRACKETS_LESS = brackets.less
 
 # output filenames
-BRACKETS_CSS = ../brackets.css
-BRACKETS_CSS_MIN = ../brackets.min.css
+BRACKETS_CSS = brackets.css
+BRACKETS_CSS_MIN = brackets.min.css
 
 DATE=$(shell DATE)
 LESS_COMPRESSOR ?= `which lessc`

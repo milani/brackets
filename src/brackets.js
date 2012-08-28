@@ -52,6 +52,7 @@ define(function (require, exports, module) {
     "use strict";
     
     // Load dependent non-module scripts
+    require("appshell");
     require("widgets/bootstrap-dropdown");
     require("widgets/bootstrap-modal");
     require("thirdparty/path-utils/path-utils.min");

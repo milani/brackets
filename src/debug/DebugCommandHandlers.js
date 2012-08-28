@@ -130,7 +130,8 @@ define(function (require, exports, module) {
     }
     
     function _handleNewBracketsWindow() {
-        window.open(window.location.href);
+        window.openNewWindow(window.location.href);
+        //window.open(window.location.href);
     }
 
     function _handleSwitchLanguage() {
