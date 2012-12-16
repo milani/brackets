@@ -1,7 +1,7 @@
 Welcome to AppJS port of Brackets!
 -------------------
 
-This is the firts iteration over porting Brackets to AppJS
+This is the first iteration over porting Brackets to AppJS
 so it is not yet fully operational but a work in progress.
 
 This port only works with __AppJS v0.0.19__ and above.
